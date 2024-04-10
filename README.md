@@ -1,2 +1,2 @@
 # todo--list
-This is a simple todo list built using typescript.
+This is the updated version of the Tode-List, where user can Add, Update, View and Delete Tasks.

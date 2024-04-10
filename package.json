@@ -1,7 +1,7 @@
 {
   "name": "fsk-todo-list",
-  "version": "1.0.0",
-  "description": "This is a simple todo list built using typescript.",
+  "version": "2.0.0",
+  "description": "This is the updated version of the Tode-List, where user can Add, Update, View and Delete Tasks.",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
